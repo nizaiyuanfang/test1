@@ -1,0 +1,13 @@
+.fl{
+	float:left;
+}
+.fr{
+	float: right;
+}
+.w{
+	width: 1190px;
+	margin: auto;
+}
+span{
+	font-family: 'icomoon';
+}
